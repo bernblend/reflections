@@ -1,0 +1,35 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+
+  An empty repository is created, which contains no commit. This is done so that it won't automatically include files you actually don't want to keep track of.
+
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  Staging area is the preparation area for files to be committed. Only files in this area are going to be included in the commit executed next time. It helps to divide changes in the working directory into several commits, each of which consists of a group of changes that represent a logical change to the relevant files.
+
+
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+
+
+
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+
+
+
+5. How do the diagrams help you visualize the branch structure?
+
+
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+
+
+
+7. What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
